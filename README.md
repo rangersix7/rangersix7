@@ -1,7 +1,6 @@
 - Hi, I’m @rangersix7
 - I’m interested in building ROMs.
 - I’m currently learning AOSP.
-- I’m looking to collaborate on AOSP and LineageOS for Motorola Devices.
 - How to reach me rangersix7@gmail.com.
 
 <!---
